@@ -6,7 +6,7 @@ Welcome to my ITM695-X repo
 ### Jordyn Short
 ### MS in Cybersecurity
 ### BS in Cybersecurity
-### Email address: [jordyn.alexandrida.short@gmail.com](https://mail.google.com/mail/jordyn.alexandria.short@gmail.com)
+### Email address: [jordyn.alexandrida.short@gmail.com](jordyn.alexandria.short@gmail.com)
 
 <i>Jiu Jitsu</i> is life. 
 <b>Cybersecurity</b> rules. <u>Tacos</u> are fuego.

@@ -1,3 +1,3 @@
-<h1>Hello, Friend!</h1>
+# Hello Friend
 
-[See my Repo Here](https://github.com/ITM695-X/ST004)
+[See my Repo Here](https://github.com/itsjustjordyns)
